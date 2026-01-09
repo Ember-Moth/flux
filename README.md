@@ -39,7 +39,7 @@
 ## 🎉 核心优势
 
 -   **极简对接**: 真的只需要**一步**！修改 API 地址即可直接使用，告别繁琐配置。
--   **多种协议**: 支持 VLESS, VMess, Trojan, Shadowsocks, Hysteria2。
+-   **多种协议**: 支持 VLESS, VMess, Trojan, Shadowsocks。
 -   **全平台支持**: Android, iOS, Windows, macOS, Linux 全覆盖。
 -   **开源透明**: 代码完全开源，安全可控，随时定制。
 
@@ -85,7 +85,6 @@ Flux 在不同平台上采用了最原生的系统级方案来接管网络流量
 *   **VMess**: 经典协议支持，兼容 `TCP`, `WS`, `TLS`, `Auto` 安全模式。
 *   **Trojan**: 完整的 Trojan 协议支持，包括 `Trojan-Go` 特性兼容。
 *   **Shadowsocks**: 支持标准 SS 协议，包括常见的加密方式 (aes-128-gcm, aes-256-gcm, chacha20-ietf-poly1305)。
-*   **Hysteria2**: 支持最新的 Hy2 协议，基于 UDP 的高性能拥塞控制，弱网环境神器。
 
 ---
 
